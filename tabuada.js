@@ -1,4 +1,4 @@
-let numero = 23;
+let numero = 2;
 let maximo = 19;
 
 if (numero % 1 !== 0 || maximo % 1 !== 0) {
