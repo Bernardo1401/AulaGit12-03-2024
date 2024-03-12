@@ -1,5 +1,5 @@
 let tabuada = 92;
-let limite = 10;
+let limite = 100;
 
 if (tabuada % 1 !== 0 || limite % 1 !== 0) {
     console.log("operação não realizavel com números decimais");
