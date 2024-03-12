@@ -1,5 +1,5 @@
 let numero = 2;
-let maximo = 19;
+let maximo = 10;
 
 if (numero % 1 !== 0 || maximo % 1 !== 0) {
     console.log("operação não realizavel com números decimais");
