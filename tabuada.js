@@ -2,7 +2,7 @@ let tabuada = 23;
 let limite = 19;
 
 if (tabuada % 1 !== 0 || limite % 1 !== 0) {
-    console.log("operação não realizavel");
+    console.log("operação não realizavel com números decimais");
 } else if (tabuada > 0 && limite > 0) {
     for (let i = 0; i <= limite; i++) {
         console.log(tabuada + " x " + i + " = " + i * tabuada);
